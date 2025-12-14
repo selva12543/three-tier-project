@@ -92,6 +92,7 @@ This project implements a classic three-tier architecture on AWS, consisting of:
 ### 14. Configure Route 53 to Load Balancer
 - Create an A record with alias pointing to the Frontend Load Balancer.
 
-### ✅ Result 
+### ✅ Result [Visit ](http://75.101.191.233/index.html)
+
 - All tiers are connected and functioning: Web → App → RDS.
 - The web server successfully communicates with the app server, and the app server connects to the RDS MySQL database
